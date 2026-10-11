@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-# Импортируем метод расчета из вашего основного файла
+
 from main import calculate_material_required
 
 
